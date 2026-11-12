@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>A Spooky Story</title>
+        <style>
+            body.bark {
+                color: white;
+                background: black;
+            }
+            button {
+                display: block;
+                margin: 15px;
+            }
+            .textentry {
+                margin-top: 12px;
+                margin-bottom 15px;
+            }
+            </styles>
+            </head>
+            <body>
+                <h1> the basment</h1>
+                <p id="story:">I wanted to find my friend, and he in the basement,.</p>
+                <button onclick=goDark()'>get '
